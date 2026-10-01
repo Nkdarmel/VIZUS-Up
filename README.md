@@ -1,7 +1,5 @@
 # VIZUS-Up
 
-# VIZUS-Up
-
 This is an open-source desktop app for generating customizable audio signals, creative video, and optimizing synthesis parameters in the CAD-BIM studio canvas using computer vision.
 
 ## Features
