@@ -47,4 +47,4 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](https://github.com/
 ## License
 
 This project is licensed under the Creative Commons Legal Code CC0 1.0 Universal License - see the [LICENSE](https://github.com/Nkdarmel/VIZUS-Up/audio-cad-bim-app/blob/main/LICENSE) file for details.
-`;
+
